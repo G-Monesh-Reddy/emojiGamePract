@@ -1,0 +1,21 @@
+/* Write your code here. */
+.navbar {
+  background-color: #9796f0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px;
+  border-radius: 10px;
+}
+.nav-score {
+  display: flex;
+  color: #ffffff;
+  justify-content: space-around;
+}
+.nav-score-p {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'roboto';
+  margin: 10px;
+}
